@@ -6,7 +6,7 @@
 
 *"Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot"*
 
-Bifurcado de [rpeleias](https://github.com/rpeleias/personapi_digital_innovation_one) - intruções *HELP.md*
+Bifurcado de [rpeleias](https://github.com/rpeleias/personapi_digital_innovation_one) - intruções *[HELP.md](https://github.com/NeiTDutra/dio-restApi-managePeople/blob/main/HELP.md)*
 
 ## Tecnologias
 
