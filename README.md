@@ -76,7 +76,7 @@ Bifurcado de [rpeleias](https://github.com/rpeleias/personapi_digital_innovation
 
 ### Novos recursos
 
-- [x] Cadastro de pessoas
+- [x] ~~Cadastro de pessoas~~
 - [ ] Adição de endereço para pessoas
 
 (em desenvolvimento...)
